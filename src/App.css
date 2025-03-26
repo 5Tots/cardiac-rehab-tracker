@@ -1,0 +1,17 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #f2f2f2;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+textarea {
+  width: 100%;
+  min-height: 60px;
+  margin-top: 10px;
+}
